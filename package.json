@@ -1,0 +1,11 @@
+{
+  "name": "01-nodejs-Assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Rutvik Ramteke",
+  "license": "MIT"
+}
